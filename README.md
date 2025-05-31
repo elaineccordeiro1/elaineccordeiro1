@@ -11,7 +11,7 @@
 *Loja de roupas infantis desenvolvida com PHP + MySQL*
 
 <p align="center">
-   <img src="https://github.com/elaineccordeiro1/elaineccordeiro1/blob/main/zezinhokids.png" alt="Jogo da Memória" width="600">
+   <img src="https://github.com/elaineccordeiro1/elaineccordeiro1/blob/main/zezinhokids.png" alt="zezinhokids" width="600">
 </p>
 
 🔗 [Repositório Zezinho Kids](https://github.com/elaineccordeiro1/zezinhokids)
