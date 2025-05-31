@@ -1,4 +1,7 @@
 ![Capa do Perfil](https://github.com/elaineccordeiro1/elaineccordeiro1/blob/main/capa.png)
+![Capa do Perfil](https://github.com/elaineccordeiro1/mestrado/blob/main/jogo_da_memoria.png)
+![Capa do Perfil](https://github.com/elaineccordeiro1/mestrado/blob/main/quiz.png)
+
 
 # 👩‍💻 Elaine Cristina Cordeiro
 
