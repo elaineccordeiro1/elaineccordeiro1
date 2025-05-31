@@ -1,8 +1,3 @@
-![Capa do Perfil](https://github.com/elaineccordeiro1/elaineccordeiro1/blob/main/capa.png)
-![Capa do Perfil](https://github.com/elaineccordeiro1/mestrado/blob/main/jogo_da_memoria.png)
-![Capa do Perfil](https://github.com/elaineccordeiro1/mestrado/blob/main/quiz.png)
-
-
 # 👩‍💻 Elaine Cristina Cordeiro
 
 🚀 **Analista de Sistemas | Desenvolvedora Back-End | Especialista em ERP RH**  
@@ -10,12 +5,35 @@
 
 ---
  
-## 💼 **Projetos em Destaque**
+# 💼 Projetos em Destaque
 
-- 🛍️ [**Zezinho Kids**](https://github.com/elaineccordeiro1/zezinhokids)  
-*Loja virtual de roupas infantis desenvolvida em PHP + MySQL*  
+## 🛍️ Zezinho Kids – Loja Virtual
+*Loja de roupas infantis desenvolvida com PHP + MySQL*
+
+<p align="center">
+   <img src="https://github.com/elaineccordeiro1/elaineccordeiro1/blob/main/zezinhokids.png" alt="Jogo da Memória" width="600">
+</p>
+
+🔗 [Repositório Zezinho Kids](https://github.com/elaineccordeiro1/zezinhokids)
 
 ---
+
+## 🎓 Jogos Sérios – Artigos e Prototipagem
+*Artigos científicos com jogos interativos educativos criados durante o mestrado (UDESC)*
+
+### 🧠 Jogo da Memória – Conceitos sobre Jogos Sérios
+
+<p align="center">
+  <img src="https://github.com/elaineccordeiro1/mestrado/blob/main/jogo_da_memoria.png" alt="Jogo da Memória" width="600">
+</p>
+
+### 📋 Quiz – Teste seu conhecimento
+
+<p align="center">
+  <img src="https://github.com/elaineccordeiro1/mestrado/blob/main/quiz.png" alt="Quiz sobre Jogos Sérios" width="600">
+</p>
+
+🔗 [Repositório Jogos Sérios](https://github.com/elaineccordeiro1/mestrado)
 
 ## 🚀 **Tecnologias e Ferramentas**
 
